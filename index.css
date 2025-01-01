@@ -1,0 +1,28 @@
+#center-text-align {
+    text-align: center;
+}
+
+#no-bullet-point {
+    list-style-type: none;
+}
+
+h1, h2, h3 {
+    font-family: monospace;
+    background: red;
+    border-radius: 50px;
+    padding: 5px 10px;
+}
+
+h2 {
+    display: block;
+    border-width: auto;
+}
+
+h3 {
+    display: inline-block;
+    border-width: auto;
+}
+
+div img {
+    text-align: center;
+}
